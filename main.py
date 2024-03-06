@@ -81,7 +81,7 @@ layout = [
     ]
 ]
 
-window = sg.Window("Steganographie", layout)
+window = sg.Window("Steganography UI", layout)
 
 # Event loop to handle window interactions
 while True:
