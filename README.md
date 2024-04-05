@@ -18,7 +18,7 @@ The LSB approach used involves manipulating the least significant bit of each pi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/laurentcasagrande/Steganography-Tool-with-PySimpleGUI.git
 
 2. Install dependencies:
    
